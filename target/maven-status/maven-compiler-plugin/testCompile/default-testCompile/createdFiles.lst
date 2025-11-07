@@ -1,6 +1,0 @@
-page/OrderPage.class
-tests/BaseTest.class
-tests/RegistrationTests.class
-tests/OrderCreationTests.class
-tests/LoginTests.class
-page/AuthPage.class
